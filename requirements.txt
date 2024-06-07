@@ -1,6 +1,5 @@
-ipywidgets==8.1.2
-matplotlib==3.8.4
+pyspark==3.5.1
+geopy==2.4.1
 pandas==2.2.2
-torch==2.3.0
-torchvision==0.18.0
-tqdm==4.66.4
+graphframes==0.6
+plotly
